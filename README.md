@@ -1,7 +1,7 @@
 # HotelBooking_Project
 Setup Instructions
 
-### 1. 🧱 Backend Setup
+### 1.  Backend Setup
 
 **Pre-requisites**: Node.js, MS SQL Server
 
@@ -27,7 +27,7 @@ node server.js
 
 Ensure SQL Server is running, port 1433 is open, and SQL authentication is enabled.
 
-### 2. 💻 Frontend Setup
+### 2.  Frontend Setup
 
 ```bash
 cd front
@@ -39,7 +39,7 @@ This will launch the React app at `http://localhost:3000`
 
 ---
 
-## 🧠 SQL Server Setup (SSMS)
+##  SQL Server Setup (SSMS)
 
 Use the provided schema in `database.sql` to create the following tables:
 
@@ -65,7 +65,7 @@ INSERT INTO Users VALUES ('anjali', 'HASHED_PASS', 'Anjali Aggarwal', 'anjali@em
 
 ---
 
-## 🔑 Features
+##  Features
 
 - 🔐 User login via stored procedure
 - 📅 Check room availability
@@ -74,7 +74,7 @@ INSERT INTO Users VALUES ('anjali', 'HASHED_PASS', 'Anjali Aggarwal', 'anjali@em
 
 ---
 
-## 🖥️ UI Components
+##  UI Components
 
 Each form is modern and responsive:
 - `LoginForm` → login with username/password
@@ -94,7 +94,7 @@ All styles are maintained with modular CSS for clarity.
 
 ---
 
-## 🙋‍♀️ Author
+##  Author
 
 **Anjali Aggarwal**  
 Demo-ready system for hotels, built as a practice full-stack project.
