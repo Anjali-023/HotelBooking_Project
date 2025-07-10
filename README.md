@@ -86,11 +86,3 @@ All styles are maintained with modular CSS for clarity.
 
 ---
 
-## ❓Troubleshooting
-
-- `ETIMEOUT` or `ESOCKET` errors → ensure SQL Server is running and reachable at `127.0.0.1:1433`
-- Login not working? → Ensure correct user/password hash in DB
-- CORS issues? → Check backend `cors()` middleware is enabled
-
----
-
