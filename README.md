@@ -94,11 +94,3 @@ All styles are maintained with modular CSS for clarity.
 
 ---
 
-##  Author
-
-**Anjali Aggarwal**  
-Demo-ready system for hotels, built as a practice full-stack project.
-
----
-
-Feel free to fork this, build on it, or use it in your own systems!
